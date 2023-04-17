@@ -1,0 +1,24 @@
+ul{
+    font-size: 20px;
+}
+
+.post-title{
+    font-size: 35px;
+}
+
+
+.subheading{
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.subheading2{
+    font-weight: lighter;
+    font-style: italic;
+  
+}
+
+.date{
+    font-weight: lighter;
+    font-size: medium;
+}
